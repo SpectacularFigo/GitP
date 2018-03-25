@@ -9,3 +9,4 @@ var str = "master 2"
 
 let feature1 = 1
 let feature2 = 2
+let feature3 = 3
